@@ -33,7 +33,7 @@ A clean, simple, and fully responsive Todo List App built with HTML, CSS, and Ja
 3. ```
    cd Todo-List-App
    ```
-4. Open the index.html file in your browser (you can simply double-click the file or use Live Server if using VS Code).Start adding your tasks they will be saved automatically thanks to localStorage.
+4. Open the index.html file in your browser (you can simply double-click the file or use Live Server if using VS Code). Start adding your tasks they will be saved automatically thanks to localStorage.
 
    https://github.com/user-attachments/assets/4d4cffd3-837a-4c3c-a2d3-0824502eb132
 
