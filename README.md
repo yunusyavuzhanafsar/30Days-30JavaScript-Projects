@@ -47,10 +47,38 @@ A  **Minimalistic** personal portfolio website created using **HTML**, **CSS**, 
 
 Perfect for beginners and a great starter for creating your online presence.
 
-
-
-
 https://github.com/user-attachments/assets/8a5177c1-3d7d-48bb-abc7-ea52eb842757
+
+# 👤 User Management App – Next.js 15 (App Router)
+
+This project is a **User Management Panel** built using TypeScript, Next.js 15 App Router, and Material UI. It supports basic CRUD operations on users.
+
+## 🚀 Features
+
+- ✅ **Listing:** Users are displayed in a table using `Material UI DataGrid`.
+- 🔍 **Search:** Filter users by name directly within the table.
+- ➕ **Create:** Add new users via a form.
+- ✏️ **Edit:** Modify existing user information via the same form.
+- 🗑️ **Delete:** Remove users with a confirmation dialog.
+- 💾 **Mock Data:** App uses temporary mock data that resets on page refresh.
+
+## 🧰 Tech Stack
+
+- [Next.js 15 (App Router)](https://nextjs.org/docs)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Material UI (v5)](https://mui.com/)
+- [MUI DataGrid](https://mui.com/x/react-data-grid/)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
