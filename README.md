@@ -1,4 +1,4 @@
-# 30Days-30JavaScript-Projects
+# JavaScript-Projects
 # 🌤️ Weather App
 ## 📌 Description
 
